@@ -1,4 +1,6 @@
-### Hi there 👋
+### 이메일 : dnjsxorchlrh@naver.com
+### 연락처 : 010-9473-7517
+### 블로그 : https://51-taek.tistory.com/
 
 <!--
 **onetaek/onetaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
