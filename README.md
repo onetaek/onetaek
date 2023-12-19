@@ -11,6 +11,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -33,6 +34,13 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![OracleCloud](https://img.shields.io/badge/OracleCloud-DA291C.svg?&style=for-the-badge&logo=OracleCloud&logoColor=white)
+
+### Architecture
+![MSA](https://img.shields.io/badge/MSA-DA291C.svg?&style=for-the-badge&logo=MSA&logoColor=white)
+![Hexsagonal](https://img.shields.io/badge/Hexsagonal-512BD4.svg?&style=for-the-badge&logo=Hexsagonal&logoColor=white)
+![ReverseProxy](https://img.shields.io/badge/ReverseProxy-EF2D5E.svg?&style=for-the-badge&logo=ReverseProxy&logoColor=white)
+![FrontController](https://img.shields.io/badge/FrontController-9999FF.svg?&style=for-the-badge&logo=FrontController&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
