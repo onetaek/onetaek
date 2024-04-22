@@ -1,6 +1,6 @@
-# OH WON TAEK 😉
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonetaek%2Fonetaek&count_bg=%23FF80CB&title_bg=%23C622FF&icon=java.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20one%taek%oh%&descAlignY=51&descAlign=62"/>
+</p>
 
 ![onetaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onetaek&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhdnjsgns)](https://solved.ac/dhdnjsgns)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onetaek&layout=compact&&theme=onedark)
@@ -48,23 +48,10 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-# :mailbox_with_mail: Contacts
+# 📪 Contacts
 
-### 이메일 : dnjsxorchlrh@naver.com
+### 이메일 : dnjsxorchlrh@gmail.com
 ### 연락처 : 010-9473-7517
 ### 블로그 : https://velog.io/@wontaekoh/posts
 
-<!--
-**onetaek/onetaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" />
