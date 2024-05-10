@@ -1,11 +1,26 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20one%taek%oh%&descAlignY=51&descAlign=62"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Welcome!🖐️&desc=This%20is%20Wonetaek%20Oh%20playground&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&fontColor=ffffff&Align=62"/>
 
-![onetaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onetaek&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhdnjsgns)](https://solved.ac/dhdnjsgns)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onetaek&layout=compact&&theme=onedark)
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=onetaek&show_icons=true&theme=radical" alt="onetaek's GitHub stats">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onetaek&layout=compact&&theme=onedark" alt="Top Languages">    
+    <a href="https://solved.ac/dhdnjsgns">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=dhdnjsgns" alt="Solved.ac Profile">
+    </a>
+</div>
+
+# 📪 Contacts
+
+### 📝 : https://velog.io/@wontaekoh/posts
+### ✉️ : dnjsxorchlrh@gmail.com <br/>
+
 
 # 💪Skills
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -28,13 +43,14 @@
 ![JDBC](https://img.shields.io/badge/JDBC-1F1F1F.svg?&style=for-the-badge&logo=JDBC&logoColor=white)
 
 ### deploy
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![CloudType](https://img.shields.io/badge/CloudType-3C72B9.svg?&style=for-the-badge&logo=CloudType&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![OracleCloud](https://img.shields.io/badge/OracleCloud-DA291C.svg?&style=for-the-badge&logo=OracleCloud&logoColor=white)
+![CloudType](https://img.shields.io/badge/CloudType-3C72B9.svg?&style=for-the-badge&logo=CloudType&logoColor=white)
 
 ### Architecture
 ![MSA](https://img.shields.io/badge/MSA-DA291C.svg?&style=for-the-badge&logo=MSA&logoColor=white)
@@ -47,11 +63,3 @@
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-# 📪 Contacts
-
-### 이메일 : dnjsxorchlrh@gmail.com
-### 연락처 : 010-9473-7517
-### 블로그 : https://velog.io/@wontaekoh/posts
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" />
